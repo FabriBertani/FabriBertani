@@ -38,6 +38,4 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fabribertani&show_icons=true&locale=en" alt="fabribertani" /></p>
 
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=fabribertani" alt="fabribertani" /></p> -->
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabribertani&theme=dark&background=000000)](https://git.io/streak-stats)
+<p align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=fabribertani&theme=dark&background=0D1117" alt="fabribertani" /></p>
