@@ -38,7 +38,18 @@
 
 <p align="center">&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=fabribertani&show_icons=true&locale=en" alt="fabribertani" /></p>
 
-<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=fabribertani" alt="fabribertani" /></p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabribertani)](https://git.io/streak-stats) -->
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=fabribertani" alt="fabribertani" /></p> -->
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=fabribertani)](https://git.io/streak-stats)
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=fabribertani" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=fabribertani" />
+  </a>
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=fabribertani)](https://git.io/streak-stats)
