@@ -1,6 +1,6 @@
 <p align="center"><img style="border-radius:50%" src="https://avatars.githubusercontent.com/u/16881840?v=4" alt="@FabriBertani" width="200" height="auto" /></p>
 <h1 align="center">Hi 👋, I'm Fabricio Bertani</h1>
-<h3 align="center">Back-end and mobile app developer with 5+ years of experience mainly focused on technologies like .Net, Android, Xamarin and Flutter. Highly adaptable and dedicated to the production of high-quality software.</h3>
+<h3 align="center">Back-end and mobile app developer with 5+ years of experience mainly focused on technologies like .Net, Android, Xamarin and Flutter. I'm highly adaptable and dedicated produce high-quality software.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=fabribertani&label=Profile%20views&color=0e75b6&style=flat" alt="fabribertani" /> </p>
 
@@ -10,9 +10,9 @@
 
 - 📝 I regularly write articles on [https://medium.com/@fabricio-bertani](https://medium.com/@fabricio-bertani)
 
-- 📫 How to reach me **fabri_bertani@hotmail.com**
+- 📫 How to reach me: **fabri_bertani@hotmail.com**
 
-- ⚡ Fun fact **I can hold my breath for ten minutes**
+- ⚡ Fun fact: **I can hold my breath for ten minutes**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
