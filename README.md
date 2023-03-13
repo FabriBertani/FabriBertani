@@ -40,16 +40,4 @@
 
 <!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=fabribertani" alt="fabribertani" /></p> -->
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=fabribertani" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=fabribertani" />
-  </a>
-</p>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=fabribertani)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=fabribertani&theme=dark&background=000000)](https://git.io/streak-stats)
