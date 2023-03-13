@@ -16,7 +16,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-
+- [Cool transition animations with Shapes in Xamarin.Forms](https://dev.to/fabribertani/cool-transition-animations-with-shapes-in-xamarin-forms-3d25)
+- [Animaciones de transición geniales con Shapes en Xamarin.Forms](https://fabricio-bertani.medium.com/animaciones-de-transici%C3%B3n-geniales-con-shapes-en-xamarin-forms-b2288254b7eb?source=rss-e6e92e172a08------2)
+- [Cool transition animations with Shapes in Xamarin.Forms](https://medium.com/geekculture/cool-transition-animations-with-shapes-in-xamarin-forms-7675e4ad0868?source=rss-e6e92e172a08------2)
+- [Create a Material Outlined Text Field with Xamarin.Forms](https://medium.com/geekculture/create-a-material-outlined-text-field-with-xamarin-forms-3da5eabab22c?source=rss-e6e92e172a08------2)
+- [Create a Material Outlined Text Field with Xamarin.Forms](https://dev.to/fabribertani/create-a-material-outlined-text-field-with-xamarin-forms-1eg1)
+- [Crear un Material Outlined Text Field con Xamarin.Forms](https://fabricio-bertani.medium.com/crear-un-material-outlined-text-field-con-xamarin-forms-93044e42042c?source=rss-e6e92e172a08------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="center">Connect with me:</h3>
