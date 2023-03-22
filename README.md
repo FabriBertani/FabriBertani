@@ -16,7 +16,7 @@
 
 - :memo: I regularly write articles on: [![Medium Badge](https://img.shields.io/badge/-Medium-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@fabricio-bertani)
 
-- :mailbox: How to reach me: [![LindekIn Badge](https://img.shields.io/badge/-Fabricio%20Bertani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-bertani/) or by email [![Email Badge](https://img.shields.io/badge/-fabri_bertani@hotmail.com-white?style=flat&logo=gmail&logoColor=red)](fabri_bertani@hotmail.com)
+- :mailbox: How to reach me: [![LindekIn Badge](https://img.shields.io/badge/-Fabricio%20Bertani-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/fabricio-bertani/) or by email [![Email Badge](https://img.shields.io/badge/-fabri_bertani@hotmail.com-white?style=flat&logo=gmail&logoColor=red)](mailto:fabri_bertani@hotmail.com)
 
 - :zap: Fun fact: **I can hold my breath for ten minutes** 🐒
 
