@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=fabribertani&label=Profile%20views&color=0e75b6&style=flat" alt="fabribertani" />
 </p>
 
-- :man_technologist: All of my projects are available at [![GitHub Badge](https://img.shields.io/badge/-GitHub/FabriBertani-white?style=flat&logo=GitHub&logoColor=black)]([https://github.com/FabriBertani](https://github.com/FabriBertani?tab=repositories&q=&type=source&language=&sort=))
+- :man_technologist: All of my projects are available at [![GitHub Badge](https://img.shields.io/badge/-GitHub/FabriBertani-white?style=flat&logo=GitHub&logoColor=black)](https://github.com/FabriBertani?tab=repositories&q=&type=source&language=&sort=)
 
 - :memo: I regularly write articles on: [![Medium Badge](https://img.shields.io/badge/-Medium-white?style=flat&logo=Medium&logoColor=black)](https://medium.com/@fabricio-bertani)
 
