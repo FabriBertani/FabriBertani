@@ -5,8 +5,7 @@
   Hi 👋, I'm Fabricio Bertani
 </h1>
 <h3 align="center">
-  Experienced back-end and mobile app developer for 7+ years, specializing in .Net, Android, Xamarin, and Flutter. Adaptable and committed to delivering top-quality software. 👨‍💻
-<!--   I'm a back-end and mobile app developer with 6+ years of experience mainly focused on technologies like .Net, Android, Xamarin and Flutter. I'm highly adaptable and dedicated to producing high-quality software. -->
+  Experienced back-end and mobile app developer for 7+ years, specializing in .Net, Android, Xamarin, .Net Maui and Flutter. Highly adaptable and committed to delivering top-quality software. 👨‍💻
 </h3>
 
 <p align="center">
@@ -43,7 +42,7 @@
 
 <h1></h1>
 
-### 📖 Blogs posts
+### 📖 Some blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Animaciones de transición geniales con Shapes en Xamarin.Forms](https://fabricio-bertani.medium.com/animaciones-de-transici%C3%B3n-geniales-con-shapes-en-xamarin-forms-b2288254b7eb?source=rss-e6e92e172a08------2)
 - [Cool transition animations with Shapes in Xamarin.Forms](https://medium.com/geekculture/cool-transition-animations-with-shapes-in-xamarin-forms-7675e4ad0868?source=rss-e6e92e172a08------2)
