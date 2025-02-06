@@ -5,7 +5,7 @@
   Hi 👋, I'm Fabricio Bertani
 </h1>
 <h3 align="center">
-  Experienced back-end and mobile app developer for 6+ years, specializing in .Net, Android, Xamarin, and Flutter. Adaptable and committed to delivering top-quality software. 👨‍💻
+  Experienced back-end and mobile app developer for 7+ years, specializing in .Net, Android, Xamarin, and Flutter. Adaptable and committed to delivering top-quality software. 👨‍💻
 <!--   I'm a back-end and mobile app developer with 6+ years of experience mainly focused on technologies like .Net, Android, Xamarin and Flutter. I'm highly adaptable and dedicated to producing high-quality software. -->
 </h3>
 
@@ -22,9 +22,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/fabricio-bertani" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fabricio-bertani" height="30" width="40" />
-  </a>
-  <a href="mailto:fabri_bertani@hotmail.com" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="email" height="30" width="40" />
   </a>
   <a href="https://stackoverflow.com/users/7432494" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="7432494" height="30" width="40" />
   </a>
